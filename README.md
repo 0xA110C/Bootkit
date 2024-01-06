@@ -3,6 +3,7 @@
  
 # Setup Windows  
 - Disable Hyper-V => open CMD as admin and type: bcdedit /set hypervisorlaunchtype off  
+- Launch info.exe and message me the string copied to clipboard for whitelist  
   
 # USB Setup  
 - Format USB drive as FAT32  
