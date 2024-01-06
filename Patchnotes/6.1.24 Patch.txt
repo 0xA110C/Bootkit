@@ -15,7 +15,6 @@ Changelog 6/1/24
 [+] Instahit V2
 [+] Third Person
 [+] New QuestESP + added new locations
-[+] New QuestESP + added new locations
 [+] AutoStrafe
 [+] "Owl Look"
 [+] Unlimited Search
