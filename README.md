@@ -23,4 +23,8 @@
 - Disable Secure Boot  
 - Delete Secure Boot Keys  
 - Boot Order: UEFI USB priority then boot drive
-- Disable Fast Startup  
+- Disable Fast Startup
+
+# Vanguard (W10 ONLY FOR NOW)  
+- Follow all previous steps  
+- Select "Vanguard Mode" on page after first boot, start VGK, reboot  
