@@ -1,0 +1,14 @@
+Changelog 7/1/24
+[EFT]
+[+] 3D crosshair
+[+] Autowall crosshair
+[~] Adjust preset itemfilters
+[~] Fixed random setback when speeding above 15x
+[~] Fixed Instahit/Magicbullet sometimes not registering hits serverside
+
+[Rust]
+[~] Omnisprint fix
+[~] Improved prediction
+
+[BattlEye]
+[+] New Security mechanisms added
