@@ -21,4 +21,5 @@
 # Setup UEFI  
 - Disable Secure Boot  
 - Delete Secure Boot Keys  
-- Boot Order: UEFI USB priority then boot drive  
+- Boot Order: UEFI USB priority then boot drive
+- Disable Fast Startup  
