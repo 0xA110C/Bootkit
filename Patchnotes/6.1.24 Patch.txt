@@ -1,0 +1,34 @@
+Changelog 6/1/24
+[EFT]
+- Devbuild + LootTP merged to normal version for RU/CN users
+[Changes]
+[+] LootTP (including quest item filter)
+[+] New Loot through walls
+[+] New 60x speedhack
+[+] New 1.8x speedhack
+[+] New 90x "Lag-"speed (Teleport around for other players)
+[+] New Highjump
+[+] New InfStam + No inertia
+[+] Activate all switches
+[+] Shoot through walls
+[+] Magic Bullet V2
+[+] Instahit V2
+[+] Third Person
+[+] New QuestESP + added new locations
+[+] New QuestESP + added new locations
+[+] AutoStrafe
+[+] "Owl Look"
+[+] Unlimited Search
+[+] Early Quest Item Pickup
+[+] BTR Taxi ESP
+[+] Preset Item Filter
+[+] Quick Reload
+[+] Entity Counter
+[+] Hitscan for Aimbot
+[+] Automatic Bone selection for Aimbot
+[+] Hotkey for rage/legit aimbot
+[~] New Chams
+[~] Smart ESP for containers + corpses + exfils
+[~] Further extended lean
+[~] Marked Unsafe options as yellow (can cause bans)
+[~] Marked Rage options as red
