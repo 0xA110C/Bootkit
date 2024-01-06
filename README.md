@@ -12,7 +12,7 @@
 - Create folder called EFI, create another folder called Boot and place the decrypted "bootx64.efi" inside second folder  
 - Reboot system  
 - If loaded successfully, our logo will appear during startup  
-- Go to: http://127.0.0.1:6928/  
+- Go to the URL (Chrome ONLY) provided after startup  
 - Register cheat with the serial key [If you're a new user]  
 - Sign in  
 - Select the cheat/spoofer you want to load  
@@ -23,4 +23,8 @@
 - Disable Secure Boot  
 - Delete Secure Boot Keys  
 - Boot Order: UEFI USB priority then boot drive
-- Disable Fast Startup  
+- Disable Fast Startup
+
+# Vanguard (W10 ONLY FOR NOW)  
+- Follow all previous steps  
+- Select "Vanguard Mode" on page after first boot, start VGK, reboot  
