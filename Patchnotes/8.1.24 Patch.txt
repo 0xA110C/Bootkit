@@ -1,0 +1,6 @@
+Changelog 8/1/24
+[EFT]
+[+] Experimental store in stash midraid exploit
+[+] Experimental AntiAim
+[+] Ping Bypass
+[+] Long Hands (4m loot containers; 2.6m loot ground unpatched)
