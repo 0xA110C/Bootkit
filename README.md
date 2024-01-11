@@ -26,6 +26,6 @@
 - Boot Order: UEFI USB priority then boot drive
 - Disable Fast Startup
 
-# Vanguard (W10 ONLY FOR NOW)  
+# Vanguard  
 - Follow all previous steps  
 - Select "Vanguard Mode" on page after first boot, start VGK, reboot  
