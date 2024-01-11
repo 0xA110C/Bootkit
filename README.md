@@ -1,6 +1,7 @@
 # Bootkit  
- 
- 
+  
+# Non-USB version is available on request  
+  
 # Setup Windows  
 - Disable Hyper-V => open CMD as admin and type: bcdedit /set hypervisorlaunchtype off  
 - Launch info.exe and message me the string copied to clipboard for whitelist  
