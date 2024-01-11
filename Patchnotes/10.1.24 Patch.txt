@@ -1,0 +1,18 @@
+Changelog 10/1/24
+[EFT]
+[~] Fixed flyhack detection
+[~] Cleanup
+
+[League of Legends Internal]
+[~] Updated to latest version
+[~] Fixed AutoUpdater
+[~] Fixed DamagePred
+[~] Added Activator Items
+[~] Cleanup
+
+[Valorant Internal]
+[~] Fixed AutoUpdater
+[~] Cleanup
+
+[Loader]
+[+] Bootkit updated for TPM2.0/Windows 11
