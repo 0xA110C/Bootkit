@@ -1,0 +1,10 @@
+Changelog 15/1/24
+[Loader + Bootkit]
+[+] Fixed issues with TPM
+[+] Disable all debuggers(Hardware, Remote, Local)/analysis software from being able to work/run
+[>] Running them 3 times within 24h will result in damage to the hardware, please contact support as you will be stuck in boot until unlocked no matter what.
+[+] Bypass for tarkov region lock added (split-tunnel 2 IPs, available for all users without seperate VPN)
+[+] Compatibility with perm spoofers
+[+] Commandline function to suspend Vanguard/BE/EAC/Any kernel driver
+[+] Every filechange made to the system drive will be reverted after reboot; Commandline added to disable
+[!] OUR SOFTWARE IS NOT COMPATIBLE WITH ANY VIRTUAL MACHINE
