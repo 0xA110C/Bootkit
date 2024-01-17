@@ -1,0 +1,6 @@
+Changelog 17/1/24
+[Rust]
+[~] Manually updated
+
+[Loader + Bootkit]
+[~] Fixed "WHEA_UNCORRECTABLE_ERROR" BSOD
