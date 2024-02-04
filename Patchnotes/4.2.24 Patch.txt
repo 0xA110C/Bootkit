@@ -1,0 +1,7 @@
+Changelog 4/2/24
+[Loader + Bootkit]
+[+] SecureBoot/TPM state spoofer
+[+] Vanguard spoofer
+[+] Vanguard cleaner
+[+] Vanguard PacketDecryptor + debugger
+[+] Riot/Microsoft/BE/EAC/ESEA Telemetry block
