@@ -1,0 +1,6 @@
+Changelog 7/2/24
+
+[League of Legends Internal]
+[+] Packet Decrypter
+[~] Preemptively updated for Vanguard & added bypasses
+[~] More advanced RIOT Telemetry block
