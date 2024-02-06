@@ -6,8 +6,8 @@
   
 # Currently supported  
 - Almost every Anticheat (BE/EAC/Vanguard/ESEA/FACEIT..)  
-- Supported games: EFT, Vanguard, DayZ, Rust  
+- Supported games: EFT, Valorant, DayZ, Rust  
   
   
--> Visuals are streamed to main PC  
--> We recommend running the SMM Bootkit on main PC to completely hide the DMA from Kernel  
+- Visuals are streamed to main PC  
+- We recommend running the SMM Bootkit on main PC to completely hide the DMA from Kernel  
