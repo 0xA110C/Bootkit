@@ -21,8 +21,8 @@
 - Start the game  
   
 # Setup UEFI  
-- Disable Secure Boot  
-- Delete Secure Boot Keys  
+- Disable Secure Boot (Not needed anymore)  
+- Delete Secure Boot Keys (Not needed anymore)  
 - Boot Order: UEFI USB priority then boot drive
 - Disable Fast Startup
 
