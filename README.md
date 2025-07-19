@@ -1,3 +1,7 @@
+# Setup not needed anymore. Bootable file is sent upon requesting  
+
+
+
 # Ring -3 bootkit  
   
 # Setup Windows  
